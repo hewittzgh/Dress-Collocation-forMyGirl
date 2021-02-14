@@ -3,10 +3,10 @@
   <channel>
     <title>张功浩的博客</title>
     <description>关于一些穿衣搭配的个人博客笔记</description>
-    <link>//</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Feb 2021 16:34:27 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2021 16:34:27 +0800</lastBuildDate>
+    <link>/Dress-Collocation-forMyGirl//</link>
+    <atom:link href="/Dress-Collocation-forMyGirl/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 14 Feb 2021 16:42:47 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2021 16:42:47 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -156,8 +156,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0800</pubDate>
-        <link>/2021/02/14/Hat-Wear.html</link>
-        <guid isPermaLink="true">/2021/02/14/Hat-Wear.html</guid>
+        <link>/Dress-Collocation-forMyGirl/2021/02/14/Hat-Wear.html</link>
+        <guid isPermaLink="true">/Dress-Collocation-forMyGirl/2021/02/14/Hat-Wear.html</guid>
         
         <category>帽子</category>
         
