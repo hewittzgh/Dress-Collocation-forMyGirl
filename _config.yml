@@ -1,15 +1,15 @@
 # Site settings
-title: 'Gonghao Zhang Blog'
-description: 'Personal Blog about Some Ideas of Dress Collocation'
-keyword: 'hewittzgh, Gonghao Zhang Blog, Dress Collocation, Ideas'
+title: '张功浩的博客'
+description: '关于一些穿衣搭配的个人博客笔记'
+keyword: '博客 穿衣搭配'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # if you're using GitHub Pages, set baseurl to your blog's .
 # for example, if your site is "kaeyleo.github.io", then this url should leave blank.
 # but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
-baseurl: ''
-# baseurl: '/Dress-Collocation-forMyGirl'
+# baseurl: ''
+baseurl: '/Dress-Collocation-forMyGirl'
 # Navigation links
 nav:
   home: '/'
@@ -20,9 +20,9 @@ footer:
   since: 2020
 
 # Author
-author: 'Gonghao Zhang'
+author: '张功浩'
 nickname: 'hewittzgh'
-bio: 'computer vision, drone development, intelligent algorithms'
+bio: '计算机视觉 无人机开发 智能算法 计算机科学 仿真'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -41,7 +41,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'qq', 'weibo']
 
 # theme color
 theme-color: 'default'  # pink or default
